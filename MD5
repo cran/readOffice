@@ -1,0 +1,12 @@
+9b2ef9b3c5ea95434669b2d806bebc2e *DESCRIPTION
+792c2009cc8ae638a42a26bf300cb816 *NAMESPACE
+a63cd7981164f2a617a7f912ec579868 *NEWS.md
+78564732d15a14f04e28d66e7b8673a5 *R/helperFuncs.R
+7cf7a0c7a34ad09885e88470b8ecdcbe *R/read_docx.R
+7c6b40f2f36c947eca5647b723ee9c56 *R/read_pptx.R
+2a897c3dbc85a694ca6a5fdaa768e248 *README.md
+d542fdd0fcff22f3656d1f059d0d8d1c *inst/extdata/Thumbs.db
+b84cb2352b999d7d56e36f811b2ee971 *inst/extdata/example.docx
+8151d1caffc5a85d10862961d156e149 *inst/extdata/example.pptx
+2e6f12964f12ab47467c27205f1c6764 *man/read_docx.Rd
+c1e3dd663ddd900fab5077dae71ff752 *man/read_pptx.Rd
